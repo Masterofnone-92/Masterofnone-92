@@ -56,10 +56,6 @@ Designed interfaces, user flows and interactive prototypes from functional requi
 ### Tech: Figma, Miro, Canva
 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muntasir-islam-1aa341a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muntasir.islam@yahoo.com) 
-
 # 💻 Tech Stack:
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
@@ -99,21 +95,52 @@ Designed interfaces, user flows and interactive prototypes from functional requi
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Masterofnone-92&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Masterofnone-92&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofnone-92&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Masterofnone-92&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Masterofnone-92&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Masterofnone-92&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Masterofnone-92&theme=gotham&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofnone-92&theme=gotham&hide_border=true&layout=compact" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Masterofnone-92&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔝 Top Repositories & Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Masterofnone-92&limit=5&theme=gotham&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/muntasir-islam-1aa341a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:muntasir.islam@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Masterofnone-92">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Interested in Cloud, DevOps, Automation and Software Development.</i>
+</p>
