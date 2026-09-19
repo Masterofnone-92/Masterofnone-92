@@ -97,30 +97,6 @@ Designed interfaces, user flows and interactive prototypes from functional requi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masterofnone-92&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Masterofnone-92&theme=gotham&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofnone-92&theme=gotham&hide_border=true&layout=compact" />
-</p>
-
----
-
-## 🔝 Top Repositories & Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Masterofnone-92&limit=5&theme=gotham&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
