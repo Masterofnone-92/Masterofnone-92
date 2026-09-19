@@ -1,5 +1,36 @@
-# 💫 About Me:
-👨‍💻 Currently working on:<br>Data analysis and machine learning projects using Python, focusing on linear regression, data visualization, and model evaluation. Also building academic and practical projects related to web development and automation.<br>🤝 Looking to collaborate on:<br>Beginner-to-intermediate projects in data science, machine learning, Python, web development, andopen-source projects where I can learn, contribute, and grow with a team.<br>🆘 I am looking for help with:<br>Learning CI/CD pipelines, Docker containerization, and deploying applications using cloud platforms.<br>📘 I am currently learning:<br>DevOps fundamentals, GitHub Actions, Docker, Linux basics, and cloud concepts.<br>💬 Ask me about:<br>Git & GitHub, basic CI/CD workflows, Linux commands, and automation fundamentals.<br>⚡ Fun fact:<br>I enjoy turning manual tasks into automated workflows—even small automations feel like big wins 🚀
+# Technical Projects:
+AWS WordPress Cloud Deployment — Designed and deployed a production-style WordPress environment on AWS, using Ubuntu EC2, Apache, PHP, Amazon RDS for MySQL, Amazon S3, and AWS cost-management tools, configuring the application, database and cloud resources for a functional web deployment.
+
+Docker & Portainer Containerization — Containerized and deployed a WordPress application using Docker and Portainer, configuring containers, networks, port mappings and persistent volumes while troubleshooting connectivity and deployment issues.
+
+Nginx Web Hosting & HTTPS — Built and configured a WordPress web server using Nginx, PHP-FPM and MySQL, implementing Dynamic DNS, automated cron jobs and Let’s Encrypt SSL/TLS certificates for secure HTTPS access.
+
+Linux Backup & Security Automation — Developed an automated WordPress backup system on Linux using SSH key authentication, Bash scripting, mysqldump, cron scheduling and SCP, enabling scheduled database and application backups with secure remote transfer.
+
+RPA Vehicle Data Processing — Developed a UiPath RPA workflow to process vehicle datasets, calculate mileage and vehicle-age metrics, automate data transformation, and export structured results to Excel.
+
+RPA-Based Invoice Processing & Financial Automation — Developed an RPA solution using UiPath, Robot Framework and MySQL to transform unstructured invoice information into structured financial records, including validation of IBANs, reference numbers, invoice totals, processing status and comments.
+
+ETL Pipeline & Data Warehouse Architecture — Designed an end-to-end ETL architecture from CompanyLtd → StagingDB → RepositoryDW, implementing data extraction, transformation, validation and loading concepts for structured analytical data processing.
+
+Relational Database Design & SQL Development — Designed and implemented relational database solutions using ER modelling, MySQL and SQL, applying normalization, primary/foreign keys, relationships, constraints, queries and data integrity principles.
+
+REST API & Database Integration — Developed an application integrating an external REST API with a local database, handling API requests, data retrieval, transformation and persistence while using API testing and validation techniques.
+
+AWS Cloud Infrastructure & Networking — Configured AWS cloud infrastructure using EC2, VPC and Security Groups, working with virtual networking, instance configuration, access control and web-server deployment.
+
+Azure DevOps & Git Workflow — Applied Azure DevOps, Git and GitHub Flow in collaborative software development, managing branches, source-code changes, tasks, version control and team-based development workflows.
+
+Docker & MinIO Object Storage — Built a containerized development environment using Docker and MinIO, working with container images, service configuration, networking and S3-compatible object storage concepts.
+
+Microsoft Power Platform Business Automation — Developed digital business solutions using Power Apps, Power Automate, SharePoint and Power Pages, integrating applications, data sources and automated workflows.
+
+Python Data Analysis — Used Python for data processing, exploratory analysis and visualization, transforming raw datasets into structured information and analytical insights.
+
+Software Testing & Test Automation — Applied Robot Framework and automated testing practices to validate application functionality, data-processing workflows and expected system behaviour.
+
+UI/UX Prototyping & Application Design — Designed application interfaces, user flows and interactive prototypes using Figma, Miro and Canva, translating functional requirements into structured digital solutions.
+
 
 
 ## 🌐 Socials:
