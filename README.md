@@ -1,5 +1,5 @@
 # Technical Projects:
-☁️ Cloud, DevOps & Infrastructure
+# ☁️ Cloud, DevOps & Infrastructure
 ## AWS WordPress Cloud Deployment
 Built and deployed a complete WordPress environment on AWS with separate application, database and media-storage layers.
 ### Tech: AWS EC2, Ubuntu, Apache, PHP, Amazon RDS MySQL, Amazon S3
@@ -19,7 +19,7 @@ Configured cloud infrastructure, virtual networking, access controls, and web-se
 Built a containerized environment using S3-compatible object storage and configured service networking.
 ### Tech: Docker, MinIO, Object Storage, Networking
 
-🤖 Automation & Business Solutions
+# 🤖 Automation & Business Solutions
 ## UiPath Vehicle Data Automation
 Automated vehicle-data processing, mileage and age calculations, and structured Excel reporting.
 ### Tech: UiPath, Excel, RPA
@@ -30,7 +30,7 @@ Built an RPA workflow for transforming invoice information into validated financ
 Developed business applications and automated workflows integrating forms, data sources, and web-based services.
 ### Tech: Power Apps, Power Automate, SharePoint, Power Pages
 
-🗄️ Data, APIs & Software Development
+# 🗄️ Data, APIs & Software Development
 ## ETL Pipeline & Data Warehouse Architecture
 Designed an end-to-end ETL workflow from source systems through staging to a repository data warehouse.
 ### Tech: ETL, StagingDB, Data Warehouse, Data Validation
@@ -44,7 +44,7 @@ Built an application that retrieves external API data, transforms it, and persis
 Processed and analyzed datasets and transformed raw information into structured analytical insights.
 ### Tech: Python, Data Processing, Visualization
 
-🧪 Development Workflow, Testing & Design
+# 🧪 Development Workflow, Testing & Design
 ## Azure DevOps & Git Workflow
 Applied collaborative Git workflows with branching, task management, and source-control practices.
 ### Tech: Azure DevOps, Git, GitHub Flow
